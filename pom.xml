@@ -39,5 +39,7 @@
 	
 	<modules>
 		<module>jdbc</module>
+		<module>bookmall</module>
+		<module>bookShop</module>
 	</modules>
 </project>
